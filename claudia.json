@@ -1,0 +1,10 @@
+{
+  "lambda": {
+    "role": "wifinder-server-executor",
+    "name": "wifinder-server",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "vy1fbiczn2"
+  }
+}
